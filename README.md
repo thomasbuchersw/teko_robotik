@@ -1,5 +1,5 @@
 # Vorlesung Robotik an der TEKO Olten
-![alt text][logo] 1
+![alt text][logo]
 
 [logo]: https://github.com/thomasbuchersw/teko_robotik/blob/main/Logo_TEKO.jpg "Logo TEKO"
 
@@ -86,6 +86,8 @@ But I have to admit, tasks lists are my favorite:
 
 ## 10. Link Files
 You can link files of the repo easily with a [a relative link](test.txt). 
+
+Test Florian
 
 
 
