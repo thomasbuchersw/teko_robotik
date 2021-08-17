@@ -76,13 +76,16 @@ If you want to embed images from the web, this is how you do it:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## 9. Other users / To Dos
-GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @
+GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey
 @jordijaques — love your sweater!
 
 But I have to admit, tasks lists are my favorite:
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
+
+## 10. Link Files
+You can link files of the repo easily with a [a relative link](test.txt). 
 
 
 
