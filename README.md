@@ -1,5 +1,5 @@
 # Vorlesung Robotik an der TEKO Olten
-![alt text][logo]
+![alt text][logo] 1
 
 [logo]: https://github.com/thomasbuchersw/teko_robotik/blob/main/Logo_TEKO.jpg "Logo TEKO"
 
