@@ -8,7 +8,7 @@ Dieses GitHub-Repository gilt als Beispiel für die Vorlesung Robotik der [TEKO 
 In diesem README.md werden einige Funktionalitäten in Markdown gezeigt, welche für das Dokumentieren eines Repos verwendet werden können
 Bei Fragen wenden sie sich an die beiden Dozenten [Fabian Jordan](mailto:fabian.jordan@edu.teko.ch) und [Thomas Bucher](mailto:thomas.bucher@edu.teko.ch).
 
-# Dokumentation eines Repository: fdfsdfsdfsd
+# Dokumentation eines Repository:
 
 ## 1. Paragraphs
 
